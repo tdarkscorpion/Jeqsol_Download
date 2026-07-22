@@ -1,8 +1,8 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "download_url": "https://raw.githubusercontent.com/tdarkscorpion/Jeqsol_Download/main/HimeshManagementSoftware.exe",
-    "windows_version": "1.0.4",
-    "android_version": "1.0.4",
+    "windows_version": "1.0.5",
+    "android_version": "1.0.5",
     "windows_download_url": "https://raw.githubusercontent.com/tdarkscorpion/Jeqsol_Download/main/HimeshManagementSoftware.exe",
     "android_download_url": "https://raw.githubusercontent.com/tdarkscorpion/Jeqsol_Download/main/HimeshManagementSoftware_Android.apk"
 }
